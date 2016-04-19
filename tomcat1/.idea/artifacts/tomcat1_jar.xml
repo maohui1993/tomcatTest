@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tomcat1:jar">
+    <output-path>D:/</output-path>
+    <root id="archive" name="tomcat1.jar">
+      <element id="module-output" name="tomcat1" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
