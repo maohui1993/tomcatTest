@@ -1,0 +1,4 @@
+rootProject.name = 'tomcat'
+include 'tomcat2'
+findProject(':tomcat2')?.name = '2'
+
